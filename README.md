@@ -1,1 +1,1 @@
-# pamela.github.io
+# pamelapaz.github.io
