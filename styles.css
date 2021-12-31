@@ -68,10 +68,11 @@ a:hover{
   max-width: 800px;
   padding-top: 1.5em;
   font-size: 14px;
+  margin: o auto;
 }
 .cat-title{
   font-size: 18px;
-  color: #d2d2d2;
+  color: #5f5e5e;
 
 }
 .post{
