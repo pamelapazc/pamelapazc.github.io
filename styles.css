@@ -65,10 +65,10 @@ a:hover{
   color: f6a623;
 }
 .intro{
-  max-width: 800px;
   padding-top: 1.5em;
   font-size: 14px;
-  margin: o auto;
+  max-width: 800px;
+  margin: auto;
 }
 .cat-title{
   font-size: 18px;
