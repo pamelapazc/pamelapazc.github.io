@@ -65,6 +65,7 @@ a:hover{
   color: f6a623;
 }
 .intro{
+  max-width: 800px;
   padding-top: 1.5em;
   font-size: 14px;
 }
@@ -81,14 +82,7 @@ a:hover{
 .post-container:nth-child(even){
   background-color: #1e1e1e;
 }
-.post-author img{
-  width: 100px;
-  height: 100px;
-  vertical-align: middle;
-}
-.post-author span{
-  margin-left: 16px;
-}
+
 .post-date{
   color: #d2d2d2;
   font-size: 14px;
