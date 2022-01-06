@@ -28,7 +28,7 @@ main {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-image: url(banner-ppaz-2.jpg);
+  background-image: url(/banner-ppaz-2.jpg);
   background-position: bottom;
   background-size: cover;
   background-repeat: no-repeat;
